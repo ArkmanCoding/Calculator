@@ -174,6 +174,7 @@
 git clone https://github.com/ArkmanCoding/Calculator.git
 cd Calculator
 
+```
 <br />
 
 <!-- ═══════════════════════════════════════════════════════════ -->
