@@ -6,6 +6,8 @@
    Watermark: Ø´Ø§Ù‡ Ú©Ø¯Ø± ØªØ±Ú©Ù…Ù† ØµØ­Ø±Ø§ â€” Ø§Ø¯ÛŒØ¨
    ============================================================ */
 
+
+
 /* ------------------------------------------------------------
    1) DESIGN TOKENS
    ------------------------------------------------------------ */
@@ -93,6 +95,11 @@
 *,
 *::before,
 *::after { box-sizing: border-box; }
+
+* {
+   font-family : "Vazirmatn", "IRANSansX", "IRANSans", "Noto Sans Arabic",
+             system-ui, -apple-system, "Segoe UI", Roboto, Tahoma, sans-serif;
+}
 
 html { height: 100%; }
 
