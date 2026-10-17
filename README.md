@@ -486,3 +486,38 @@ This project is licensed under the **MIT** License. See the [LICENSE](./LICENSE)
 
 </div>
 
+<br />
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                       FOOTER                               -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0e,50:262631,100:0a0a0e&height=180&section=footer&text=JavaScript%20Mini%20Project&fontSize=28&fontColor=ff9f0a&fontAlignY=65&desc=✨%20Engineering%20Calculator%20✨&descAlignY=85&descSize=16&animation=twinkling" width="100%" />
+
+<div align="center">
+
+<br />
+
+<a href="https://github.com/ArkmanCoding/Calculator/stargazers">
+  <img src="https://img.shields.io/github/stars/ArkmanCoding/Calculator?style=for-the-badge&logo=github&label=Stars&color=ff9f0a&labelColor=1a1a20" alt="Stars" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/ArkmanCoding/Calculator/network/members">
+  <img src="https://img.shields.io/github/forks/ArkmanCoding/Calculator?style=for-the-badge&logo=github&label=Forks&color=ff9f0a&labelColor=1a1a20" alt="Forks" />
+</a>
+
+<br /><br />
+
+<img src="https://readme-typing-svg.demolab.com?font=Vazirmatn&weight=700&size=18&duration=2500&pause=800&color=ff9f0a&center=true&vCenter=true&width=600&lines=%E2%AD%90+%D8%A7%DA%AF%D9%87+%D8%A7%DB%8C%D9%86+%D9%BE%D8%B1%D9%88%DA%98%D9%87+%D8%B1%D9%88+%D8%AF%D9%88%D8%B3%D8%AA+%D8%AF%D8%A7%D8%B4%D8%AA%DB%8C%D8%8C+%DB%8C%D9%87+%D8%B3%D8%AA%D8%A7%D8%B1%D9%87+%D8%A8%D8%AF%D9%87+%E2%AD%90;%E2%AD%90+If+you+liked+this+project%2C+drop+a+star+%E2%AD%90" alt="Star Prompt" />
+
+<br /><br />
+
+<a href="#top">
+  <img src="https://img.shields.io/badge/⬆_%D8%A8%D8%B1%DA%AF%D8%B1%D8%AF_%D8%A8%D9%87_%D8%A8%D8%A7%D9%84%D8%A7-ff9f0a?style=for-the-badge&labelColor=1a1a20" alt="Back to top" height="45" />
+</a>
+
+<br /><br />
+
+<sub>Designed & Coded by <b>Arkman</b> © 2026</sub>
+
+</div>
