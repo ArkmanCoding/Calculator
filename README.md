@@ -115,9 +115,6 @@
 </div>
 
 <br />
-
----
-
 ## 😂 استراحت برنامه‌نویس
 
 <div align="center">
@@ -131,7 +128,10 @@
 </div>
 
 <br />
----
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0e,50:262631,100:0a0a0e&height=80&section=header&text=%20&animation=twinkling" width="100%" />
+
+
 
 ## 🚀 مشاهده‌ی آنلاین
 
@@ -169,6 +169,157 @@
 ## 📦 نصب و اجرا
 
 **قدم ۱ — کلون کردن پروژه**
+
+```bash
+git clone https://github.com/ArkmanCoding/Calculator.git
+cd Calculator
+
+<br />
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                     🇬🇧 ENGLISH                            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<a id="-english"></a>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Vazirmatn&weight=900&size=40&duration=2500&pause=600&color=ff9f0a&center=true&vCenter=true&width=500&lines=%F0%9F%87%AC%F0%9F%87%A7+ENGLISH" alt="English" />
+
+</div>
+
+<br />
+
+## 🎯 About
+
+**Engineering Calculator** — A modern calculator with a 3D look, smooth animations, and support for basic math operations.
+
+This is my second step in my **JavaScript** learning journey. I worked with important concepts like **state management, event delegation, and professional UI design**.
+
+<br />
+
+---
+
+## ✨ Features
+
+- 🎨 **Modern 3D Design** — Buttons with real depth and physical feel
+- 🌗 **Professional Dark Mode** — High contrast with pleasing colors
+- 📱 **Fully Responsive** — On mobile, tablet, and desktop
+- 🎬 **Animated Alert Modal** — With timer bar and slide-in from top
+- 🧮 **Basic Operations** — Addition, subtraction, multiplication, division
+- 🔢 **Decimal, Percent, and Negate Support**
+- 💧 **Interactive Watermark** — With creator info
+- ⚡ **Optimized Logic** — Built with clean state management
+
+<br />
+
+---
+
+## 🧠 What I Learned
+
+I didn't just write code; I faced real software engineering challenges. Here are the most important lessons:
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**State Management**
+- ✅ **Main States:** Understanding that `currentinput` is for calculation, but `expression` is for UI display.
+- ✅ **Flags:** Using `justEvaluated` to detect if the user just pressed equals (so a new input replaces the result if needed).
+- ✅ **Resetting:** Why `prevInput` and `operator` must be set to `null` after calculation to prevent conflicts.
+
+</td>
+<td width="50%" valign="top">
+
+**Logic & Validation**
+- ✅ **Type Casting:** Using `Number()` to prevent string concatenation in math operations (why `"5" + "3"` is `"53"` but `5 + 3` is `8`).
+- ✅ **Error Handling:** Preventing common bugs like double decimals (`includes('.')`) or typing numbers after the result.
+- ✅ **String Manipulation:** Using `startsWith` and `slice` for sign change (+/-).
+
+</td>
+</tr>
+</table>
+
+<br />
+
+> 💡 **Most Important Lesson:** A simple calculator is actually a complex state management challenge in small scale. If you can correctly manage button behavior in all scenarios (even edge cases like `5 + +`), you've understood programming logic.
+
+<br />
+
+---
+
+## 📸 Preview
+
+<div align="center">
+
+**🖼️ Preview Image**
+
+<img src="./assets/preview.png" alt="Calculator Preview" width="80%" style="border-radius: 16px; box-shadow: 0 20px 50px rgba(255, 159, 10, 0.25);" />
+
+<br /><br />
+
+**🎬 Demo GIF**
+
+<img src="./assets/demo.gif" alt="Calculator Demo" width="80%" style="border-radius: 16px; box-shadow: 0 20px 50px rgba(255, 159, 10, 0.25);" />
+
+</div>
+
+<br />
+
+---
+
+## 😂 Developer Break
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat Programming" width="320" style="border-radius: 12px;" />
+
+<br />
+
+<sub>When you find the bug and realize you wrote it 😹</sub>
+
+</div>
+
+<br />
+
+---
+
+## 🚀 Live Demo
+
+<div align="center">
+
+<a href="https://arkmancoding.github.io/Calculator/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_View_Live_Demo-ff9f0a?style=for-the-badge&labelColor=1a1a20&logoColor=white" alt="Live Demo" height="55" />
+</a>
+
+</div>
+
+<br />
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark&perline=6" alt="Tech Stack" />
+
+</div>
+
+| Technology | Purpose |
+|------------|---------|
+| **HTML5** | Structure and semantics |
+| **CSS3** | 3D design, animation, responsive |
+| **JavaScript (Vanilla)** | Logic, state management, event delegation |
+| **Git & GitHub** | Version control and hosting (GitHub Pages) |
+
+<br />
+
+---
+
+## 📦 Installation
+
+**Step 1 — Clone the repository**
 
 ```bash
 git clone https://github.com/ArkmanCoding/Calculator.git
