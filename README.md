@@ -61,3 +61,47 @@
 - 🧮 **عملیات پایه** — جمع، تفریق، ضرب، تقسیم
 - 🔢 **پشتیبانی از اعشار، درصد، و تغییر علامت**
 - 💧 **واترمارک تعاملی** — با اطلاعات سازنده
+<br />
+
+---
+
+## 🧠 چیزهایی که یاد گرفتم
+
+توی این پروژه، با کلی مفهوم جدید و کاربردی آشنا شدم. اینا مهم‌ترین‌هاشون هستن:
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**مفاهیم کلیدی جاوااسکریپت**
+
+- ✅ **State Management** — مدیریت چند متغیر هماهنگ (`currentInput`, `prevInput`, `operator`)
+- ✅ **Event Delegation** — یک listener برای همه‌ی دکمه‌ها به‌جای ۲۰ تا listener
+- ✅ **Keyboard Events** — گوش دادن به `keydown` و تبدیل کلیدها به action
+- ✅ **Data Attributes** — استفاده از `data-action` و `data-value` توی HTML
+- ✅ **String vs Number** — تبدیل با `Number()` و `String()`
+- ✅ **Flag Pattern** — استفاده از پرچم `justEvaluated` برای حالت‌های خاص
+- ✅ **Early Return** — استفاده از `return` برای جلوگیری از کد اضافی
+- ✅ **Slice و StartsWith** — کار با رشته‌ها (مثل backspace و تغییر علامت)
+
+</td>
+<td width="50%" valign="top">
+
+**مهارت‌های طراحی و CSS**
+
+- ✅ **3D CSS** — عمق واقعی با سایه‌های چندلایه و `inset`
+- ✅ **CSS Variables** — تم‌دهی با متغیرهای `:root`
+- ✅ **Keyframe Animations** — انیمیشن‌های نرم برای مودال و دکمه‌ها
+- ✅ **Mobile-First Design** — طراحی از موبایل به بالا با `@media`
+- ✅ **Modal Design** — مودال با انیمیشن اسلاید و نوار تایمر
+- ✅ **Accessibility** — `aria-label`، `aria-live`، `focus-visible`
+- ✅ **Reduced Motion** — احترام به تنظیمات کاربر با `prefers-reduced-motion`
+- ✅ **Grid Layout** — چیدمان دکمه‌ها با `display: grid`
+
+</td>
+</tr>
+</table>
+
+<br />
+
+> 💡 **مهم‌ترین درس:** برنامه‌نویسی فقط نوشتن کد نیست. مدیریت state، طراحی تجربه‌ی کاربری، و فکر کردن به حالت‌های خاص (مثل تقسیم بر صفر، یا `5 + +`) به همون اندازه مهمه.
