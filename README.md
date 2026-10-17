@@ -62,8 +62,8 @@
 - 🔢 **پشتیبانی از اعشار، درصد، و تغییر علامت**
 - 💧 **واترمارک تعاملی** — با اطلاعات سازنده
 <br />
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:0a0a0e,50:262631,100:0a0a0e&height=60&section=header" width="100%" />
-<br />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0e,50:262631,100:0a0a0e&height=80&section=header&text=%20&animation=twinkling" width="100%" />
+
 
 ## 🧠 چیزهایی که یاد گرفتم
 
