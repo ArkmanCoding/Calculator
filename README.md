@@ -39,8 +39,11 @@
 
 </div>
 
-<br />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0e,50:262631,100:0a0a0e&height=40&section=header" width="100%" />
+<br /><br />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Vazirmatn&weight=800&size=20&duration=2000&pause=1000&color=ff9f0a&center=true&vCenter=true&width=400&lines=●───+%D8%AF%D8%B1+%D8%AD%D8%A7%D9%84+%D8%A8%D8%A7%D8%B1%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C...;Loading+Next+Section...;●───+%D8%A8%D8%AE%D8%B4+%D8%A8%D8%B9%D8%AF%DB%8C" alt="Separator" />
+</div>
+<br />>
 
 
 ## 🎯 معرفی
