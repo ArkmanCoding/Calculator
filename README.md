@@ -41,6 +41,9 @@
 
 <br />
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0e,50:262631,100:0a0a0e&height=80&section=header&text=%20&animation=twinkling" width="100%" />
+
+
 ## 🎯 معرفی
 
 **ماشین حساب مهندسی** — یه ماشین حساب مدرن با ظاهری سه‌بعدی، انیمیشن‌های نرم، و پشتیبانی از عملیات پایه‌ی ریاضی.
