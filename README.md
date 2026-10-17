@@ -105,3 +105,41 @@
 <br />
 
 > 💡 **مهم‌ترین درس:** برنامه‌نویسی فقط نوشتن کد نیست. مدیریت state، طراحی تجربه‌ی کاربری، و فکر کردن به حالت‌های خاص (مثل تقسیم بر صفر، یا `5 + +`) به همون اندازه مهمه.
+
+<br />
+
+---
+
+## 📸 پیش‌نمایش
+
+<div align="center">
+
+**🖼️ تصویر پروژه**
+
+<img src="./assets/preview.png" alt="Calculator Preview" width="80%" style="border-radius: 16px; box-shadow: 0 20px 50px rgba(255, 159, 10, 0.25);" />
+
+<br /><br />
+
+**🎬 گیف دمو**
+
+<img src="./assets/demo.gif" alt="Calculator Demo" width="80%" style="border-radius: 16px; box-shadow: 0 20px 50px rgba(255, 159, 10, 0.25);" />
+
+</div>
+
+<br />
+
+---
+
+## 😂 استراحت برنامه‌نویس
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat Programming" width="320" style="border-radius: 12px;" />
+
+<br />
+
+<sub>وقتی باگ رو پیدا می‌کنی و می‌فهمی خودت نوشتیش 😹</sub>
+
+</div>
+
+<br />
