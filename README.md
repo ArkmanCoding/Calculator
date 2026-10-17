@@ -131,3 +131,45 @@
 </div>
 
 <br />
+---
+
+## 🚀 مشاهده‌ی آنلاین
+
+<div align="center">
+
+<a href="https://arkmancoding.github.io/Calculator/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_مشاهده_دموی_زنده-ff9f0a?style=for-the-badge&labelColor=1a1a20&logoColor=white" alt="Live Demo" height="55" />
+</a>
+
+</div>
+
+<br />
+
+---
+
+## 🛠️ تکنولوژی‌ها
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark&perline=6" alt="Tech Stack" />
+
+</div>
+
+| تکنولوژی | کاربرد |
+|----------|---------|
+| **HTML5** | ساختار و معنایی (Semantic) |
+| **CSS3** | طراحی سه‌بعدی، انیمیشن، ریسپانسیو |
+| **JavaScript (Vanilla)** | منطق، مدیریت state، event delegation |
+| **Git & GitHub** | کنترل نسخه و میزبانی (GitHub Pages) |
+
+<br />
+
+---
+
+## 📦 نصب و اجرا
+
+**قدم ۱ — کلون کردن پروژه**
+
+```bash
+git clone https://github.com/ArkmanCoding/Calculator.git
+cd Calculator
