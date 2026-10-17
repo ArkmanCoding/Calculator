@@ -299,7 +299,7 @@ This is my second step in my **JavaScript** learning journey. I worked with impo
 
 <br />
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0e,50:262631,100:0a0a0e&height=80&section=header&text=%20&animation=twinkling" width="100%" />
 
 ## 🧠 What I Learned
 
@@ -332,7 +332,7 @@ I didn't just write code; I faced real software engineering challenges. Here are
 
 <br />
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0e,50:262631,100:0a0a0e&height=80&section=header&text=%20&animation=twinkling" width="100%" />
 
 ## 📸 Preview
 
@@ -368,7 +368,7 @@ I didn't just write code; I faced real software engineering challenges. Here are
 
 <br />
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0e,50:262631,100:0a0a0e&height=80&section=header&text=%20&animation=twinkling" width="100%" />
 
 ## 🚀 Live Demo
 
@@ -382,7 +382,7 @@ I didn't just write code; I faced real software engineering challenges. Here are
 
 <br />
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0e,50:262631,100:0a0a0e&height=80&section=header&text=%20&animation=twinkling" width="100%" />
 
 ## 🛠️ Tech Stack
 
@@ -410,3 +410,79 @@ I didn't just write code; I faced real software engineering challenges. Here are
 ```bash
 git clone https://github.com/ArkmanCoding/Calculator.git
 cd Calculator
+
+```
+## 📂 Project Structure
+
+```text
+Calculator/
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+│   ├── preview.png
+│   └── demo.gif
+└── README.md
+
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0e,50:262631,100:0a0a0e&height=80&section=header&text=%20&animation=twinkling" width="100%" />
+
+
+## 🔮 Future Features
+
+- [ ] 🎯 Scientific mode (sin, cos, tan, log)
+- [ ] 🔢 Memory functions
+- [ ] 📜 Calculation history
+- [ ] 🎨 Theme color picker
+- [ ] 🌙 Dark/Light mode toggle
+- [ ] 📱 Convert to PWA (install on mobile)
+
+<br />
+
+## 🤝 Contributing
+
+If you have ideas or suggestions to improve this project, I'd love to hear them. To contribute:
+
+1. 🍴 **Fork** the project
+2. 🌿 Create a new **Branch** (`git checkout -b feature/AmazingFeature`)
+3. 💾 **Commit** your changes (`git commit -m 'Add some AmazingFeature'`)
+4. 📤 **Push** to the Branch (`git push origin feature/AmazingFeature`)
+5. 🔃 Open a **Pull Request**
+
+<br />
+
+## 📜 License
+
+This project is licensed under the **MIT** License. See the [LICENSE](./LICENSE) file for details.
+
+<br />
+
+## 👨‍💻 About the Author
+
+<div align="center">
+
+**Adib Mohammadi (Arkman)**
+
+<sub>Turkmen developer, from the heart of Turkmen Sahra</sub>
+
+<br /><br />
+
+<a href="https://github.com/ArkmanCoding">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://instagram.com/your-username">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://your-site.com">
+  <img src="https://img.shields.io/badge/Website-ff9f0a?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+</a>
+
+<br /><br />
+
+<a href="#top">
+  <img src="https://img.shields.io/badge/⬆_Back_to_Top-ff9f0a?style=for-the-badge&labelColor=1a1a20" alt="Back to top" height="40" />
+</a>
+
+</div>
+
