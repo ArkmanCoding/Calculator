@@ -40,7 +40,7 @@
 </div>
 
 <br />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0e,50:262631,100:0a0a0e&height=40&section=header" width="100%" />
 
 
 ## 🎯 معرفی
