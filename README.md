@@ -40,11 +40,6 @@
 </div>
 
 <br />
-<br />
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=4000&pause=1000&color=262631&center=true&vCenter=true&width=600&height=30&lines=+const+next_section+%3D+%22What+I+Learned%22%3B;+console.log(next_section)%3B" alt="Terminal Separator" />
-</div>
-<br />
 
 ## 🎯 معرفی
 
@@ -67,8 +62,8 @@
 - 🔢 **پشتیبانی از اعشار، درصد، و تغییر علامت**
 - 💧 **واترمارک تعاملی** — با اطلاعات سازنده
 <br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0e,50:262631,100:0a0a0e&height=80&section=header&text=%20&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:0a0a0e,50:262631,100:0a0a0e&height=60&section=header" width="100%" />
+<br />
 
 ## 🧠 چیزهایی که یاد گرفتم
 
