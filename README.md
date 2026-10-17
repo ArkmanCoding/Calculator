@@ -39,12 +39,12 @@
 
 </div>
 
-<br /><br />
+<br />
+<br />
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Vazirmatn&weight=800&size=20&duration=2000&pause=1000&color=ff9f0a&center=true&vCenter=true&width=400&lines=●───+%D8%AF%D8%B1+%D8%AD%D8%A7%D9%84+%D8%A8%D8%A7%D8%B1%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C...;Loading+Next+Section...;●───+%D8%A8%D8%AE%D8%B4+%D8%A8%D8%B9%D8%AF%DB%8C" alt="Separator" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=4000&pause=1000&color=262631&center=true&vCenter=true&width=600&height=30&lines=+const+next_section+%3D+%22What+I+Learned%22%3B;+console.log(next_section)%3B" alt="Terminal Separator" />
 </div>
-<br />>
-
+<br />
 
 ## 🎯 معرفی
 
