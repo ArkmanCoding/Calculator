@@ -175,6 +175,90 @@ git clone https://github.com/ArkmanCoding/Calculator.git
 cd Calculator
 
 ```
+**قدم ۲ — اجرا**
+
+فایل `index.html` رو توی مرورگر باز کن. تمام! ✨
+
+<br />
+
+## 📂 ساختار پروژه
+
+```text
+Calculator/
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+│   ├── preview.png
+│   └── demo.gif
+└── README.md
+
+```
+<br />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0e,50:262631,100:0a0a0e&height=80&section=header&text=%20&animation=twinkling" width="100%" />
+
+
+## 🔮 امکانات آینده
+
+- [ ] 🎯 حالت علمی (sin, cos, tan, log)
+- [ ] 🔢 حافظه‌ی محاسبات (Memory)
+- [ ] 📜 تاریخچه‌ی محاسبات
+- [ ] 🎨 انتخاب تم رنگی
+- [ ] 🌙 سوییچ بین تم تاریک و روشن
+- [ ] 📱 تبدیل به PWA (نصب روی موبایل)
+
+<br />
+
+## 🤝 مشارکت
+
+اگه ایده یا پیشنهادی برای بهتر شدن این پروژه داری، خوشحال می‌شم بشنوم. برای مشارکت:
+
+1. 🍴 پروژه رو **Fork** کن
+2. 🌿 یه **Branch** جدید بساز (`git checkout -b feature/AmazingFeature`)
+3. 💾 تغییراتت رو **Commit** کن (`git commit -m 'Add some AmazingFeature'`)
+4. 📤 به Branch خودت **Push** کن (`git push origin feature/AmazingFeature`)
+5. 🔃 یه **Pull Request** باز کن
+
+<br />
+
+## 📜 مجوز
+
+این پروژه تحت مجوز **MIT** منتشر شده است. برای اطلاعات بیشتر فایل [LICENSE](./LICENSE) رو ببین.
+
+<br />
+
+## 👨‍💻 درباره‌ی سازنده
+
+<div align="center">
+
+**ادیب محمدی (Arkman)**
+
+<sub>برنامه‌نویس ترکمن، از دل ترکمن‌صحرا</sub>
+
+<br /><br />
+
+<a href="https://github.com/ArkmanCoding">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://instagram.com/your-username">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://your-site.com">
+  <img src="https://img.shields.io/badge/Website-ff9f0a?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+</a>
+
+<br /><br />
+
+<a href="#top">
+  <img src="https://img.shields.io/badge/⬆_%D8%A8%D8%B1%DA%AF%D8%B1%D8%AF_%D8%A8%D9%87_%D8%A8%D8%A7%D9%84%D8%A7-ff9f0a?style=for-the-badge&labelColor=1a1a20" alt="Back to top" height="40" />
+</a>
+
+</div>
+
+<br />
+
+<!-- جداکننده قبل از بخش انگلیسی -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0e,50:262631,100:0a0a0e&height=100&section=header&text=%20&animation=twinkling" width="100%" />
 <br />
 
 
